@@ -24,7 +24,7 @@ function isPalindrome(num) {
   }
   
   // Example Usage
-//   checkPalindromes(121, 12321);  
-//   checkPalindromes(123, 121);    
-//   checkPalindromes(456, 789);    
+  checkPalindromes(121, 12321);  
+  checkPalindromes(123, 121);    
+  checkPalindromes(456, 789);    
   
